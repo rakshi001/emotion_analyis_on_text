@@ -1,5 +1,5 @@
-# emotion_analyis_on_text
-# Text Emotion Detection
+# Emotion Analysis On Text
+## Text Emotion Detection
 
 A simple and efficient Streamlit web app that uses a transformer-based emotion classifier to detect emotions in text. Enter any text, and the app will predict the top 3 emotions along with confidence scores and display them with colorful progress bars and emojis.
 
