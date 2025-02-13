@@ -49,7 +49,8 @@ This command will launch your default browser and display the app. Enter text in
 
 Code Overview
 Model Loading:
-The app uses Streamlit’s @st.cache_resource decorator to load and cache the emotion classifier from the Transformers pipeline.
+
+The app uses Streamlit’s ```@st.cache_resource decorator``` to load and cache the emotion classifier from the Transformers pipeline.
 
 User Interface:
 A styled text area allows users to enter text. Custom CSS is used to enhance the input box appearance.
@@ -74,3 +75,6 @@ Acknowledgements
 
 HuggingFace Transformers for the pre-trained emotion model.
 Streamlit for an easy way to build interactive data apps.
+
+You can practically check out the project here which is a deployed version .
+https://emotionanalyisontext-fmqftbvhq8fnksxou3jkks.streamlit.app/ 
