@@ -77,4 +77,5 @@ HuggingFace Transformers for the pre-trained emotion model.
 Streamlit for an easy way to build interactive data apps.
 
 You can practically check out the project here which is a deployed version .
+
 https://emotionanalyisontext-fmqftbvhq8fnksxou3jkks.streamlit.app/ 
