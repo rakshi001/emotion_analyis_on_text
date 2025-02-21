@@ -65,5 +65,7 @@ This project is licensed under the MIT License.
 Acknowledgements 🙏
 
 HuggingFace Transformers: For providing the pre-trained emotion model.
+
 Streamlit: For making it easy to build and deploy interactive data apps.
-Explore the deployed project here: [Emotion Analysis on Text](https://emotionanalyisontext-fmqftbvhq8fnksxou3jkks.streamlit.app/)
+
+## Explore the deployed project here: [Emotion Analysis on Text](https://emotionanalyisontext-fmqftbvhq8fnksxou3jkks.streamlit.app/)
