@@ -14,6 +14,8 @@
 Experience the app in action:
 ![Emotion Analysis Demo](https://raw.githubusercontent.com/rakshi001/emotion_analyis_on_text/main/sentiment_analysis_image1.png)
 
+### Explore the deployed project here: [Emotion Analysis on Text](https://emotionanalyisontext-fmqftbvhq8fnksxou3jkks.streamlit.app/)
+
 ## Installation 🛠️
 
 ### 1. Clone the Repository
@@ -67,5 +69,3 @@ Acknowledgements 🙏
 HuggingFace Transformers: For providing the pre-trained emotion model.
 
 Streamlit: For making it easy to build and deploy interactive data apps.
-
-## Explore the deployed project here: [Emotion Analysis on Text](https://emotionanalyisontext-fmqftbvhq8fnksxou3jkks.streamlit.app/)
