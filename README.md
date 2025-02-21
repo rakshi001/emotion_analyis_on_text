@@ -15,6 +15,9 @@ This project leverages the HuggingFace Transformers library and the pre-trained 
 - **Efficient Model Loading:** Caches the transformer model to speed up subsequent predictions.
 - **Lightweight & Impactful:** A compact codebase that showcases how to integrate state-of-the-art NLP models into interactive applications.
 
+
+Here is a small demo of my project ->
+
 ![Sentiment Analysis Image](https://raw.githubusercontent.com/rakshi001/emotion_analyis_on_text/main/sentiment_analysis_image.png)
 
 ## Installation
