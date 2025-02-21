@@ -12,7 +12,7 @@
 
 ## Demo 🎥
 Experience the app in action:
-![Emotion Analysis Demo](https://raw.githubusercontent.com/rakshi001/emotion_analyis_on_text/main/sentiment_analysis_image.png)
+![Emotion Analysis Demo](https://raw.githubusercontent.com/rakshi001/emotion_analyis_on_text/main/sentiment_analysis_image1.png)
 
 ## Installation 🛠️
 
